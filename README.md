@@ -4,11 +4,11 @@
 **AI-Powered Fraud Detection and Prevention System** - Develop an AI-driven solution to detect and prevent fraudulent activities in real-time across various digital platforms, enhancing security and user trust.
 
 ## **Team Name**
-Samsung Security Shield Team
+sentinel minds
 
 ## **Team Members (Names)**
 Chinmay Solanki (Team Leader), AI Security Engineer, Mobile Fraud Detection Specialist, Samsung Ecosystem Developer
-
+member -2 : prakriti kain ( full stack developer )
 ## **Demo Video Link**
 [Will be updated after recording the demo video - YouTube link coming soon]
 
